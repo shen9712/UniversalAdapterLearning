@@ -1,0 +1,1 @@
+# 只更新adapter的参数，其他的全部freeze
